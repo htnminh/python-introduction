@@ -1,9 +1,9 @@
 # Introduction to Python
 The most basic concepts of [Python](https://github.com/python) programming language, in easy-to-understand examples.
 
-- [Jupyter Notebook using Google Colab](https://github.com/htnminh/pdf-python-books-docs/blob/main/Introduction%20to%20Programming%20Review/_htnm_PYTHON_LAST_REVIEW.ipynb) (preview available on GitHub)
-
-- [PDF file](https://github.com/htnminh/pdf-python-books-docs/blob/main/Introduction%20to%20Programming%20Review/_htnm_PYTHON_LAST_REVIEW.pdf) (table of contents available but download required)
+- [Jupyter Notebook using Google Colab](https://github.com/htnminh/introduction-to-python/blob/main/files/_htnm_PYTHON_LAST_REVIEW.ipynb) (preview available on GitHub)
+- [Markdown file](https://github.com/htnminh/introduction-to-python/blob/main/files/_htnm_PYTHON_LAST_REVIEW.md) (preview available on GitHub)
+- [PDF file](https://github.com/htnminh/introduction-to-python/blob/main/files/_htnm_PYTHON_LAST_REVIEW.pdf) (table of contents available but download required)
 
 ### Chapter 1: Introduction
 Python's basic concepts.

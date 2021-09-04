@@ -1,15 +1,19 @@
 # Introduction to Programming (Python)
 The most basic concepts of Python programming language, in easy-to-understand examples.
 
+[Read now!](https://htnminh.github.io/python-introduction/)
+
 [Codes for Exercises](https://github.com/htnminh/python-introduction-exercises) in the course.
 
 ![](https://github.com/htnminh/python-introduction/blob/a3d526dfd1c6fe9f6f99405038146f072ce965bd/docs/preview.PNG)
 
+<details>
+  <summary>Good available files</summary>
 
-Good available files:
 - [Jupyter Notebook using Google Colab](https://github.com/htnminh/introduction-to-python/blob/main/files/_htnm_PYTHON_LAST_REVIEW.ipynb) (preview available on GitHub)
 - [Markdown file](https://github.com/htnminh/introduction-to-python/blob/main/files/_htnm_PYTHON_LAST_REVIEW.md) (fast preview available on GitHub)
 - [PDF file](https://github.com/htnminh/introduction-to-python/blob/main/files/_htnm_PYTHON_LAST_REVIEW.pdf) (table of contents available but download required)
+</details>
 
 ## Chapter 1: Introduction
 Python's basic concepts.

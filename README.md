@@ -13,8 +13,7 @@ Data Science and Artificial Intelligence - K65.
 
 *Dear Data Science & AI - K65,*
 
-This is my last notebook in order to prepare for the final exam on Introduction to Programming. If you find this notebook helpful, thanks for reading it. Some might find this one not that helpful, I highly appreciate every line of text you read, including this one.
-
+This is my last notebook in order to prepare for the final exam on Introduction to Programming. If you find this notebook helpful, thanks for reading it.
 If you find any mistake, feedback and I will try to fix it as soon as possible.
 
 Thank y'all for supporting me all the time, good luck on all of your exams.
